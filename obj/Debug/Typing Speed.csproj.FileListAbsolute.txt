@@ -1,0 +1,11 @@
+D:\GitHub Projects\Typing Speed\bin\Debug\Typing Speed.exe.config
+D:\GitHub Projects\Typing Speed\bin\Debug\Typing Speed.exe
+D:\GitHub Projects\Typing Speed\bin\Debug\Typing Speed.pdb
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing Speed.csproj.AssemblyReference.cache
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing Speed.csproj.SuggestedBindingRedirects.cache
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing_Speed.Properties.Resources.resources
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing Speed.csproj.GenerateResource.cache
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing Speed.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing Speed.exe
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing Speed.pdb
+D:\GitHub Projects\Typing Speed\obj\Debug\Typing_Speed.TypingSpeed.resources
