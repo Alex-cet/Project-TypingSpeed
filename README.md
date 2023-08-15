@@ -1,1 +1,2 @@
 # Project-TypingSpeed
+This project features a game close to "TypeRacer" where you have a text of random words and a time limit of one minute to type these words correctly letter by letter. If the user finishes typing the words faster than one minute, a message will be shown with the number of words typed correctly. If the user does not write all of the words in one minute, a message will be shown respectively. If the user types a correct letter, the letter from the text will become green, and if the user types a wrong letter that one will become red. Enjoy!
